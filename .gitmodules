@@ -1,0 +1,6 @@
+[submodule "identity-frontend"]
+	path = identity-frontend
+	url = git@github.com:open-source-services/identity-frontend.git
+[submodule "identity-backend"]
+	path = identity-backend
+	url = git@github.com:open-source-services/identity-backend.git
