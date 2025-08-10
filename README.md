@@ -57,7 +57,7 @@ go run cmd/server/main.go
 
 ### 3. Frontend Setup
 ```bash
-cd ../identity-frontend/
+cd identity-frontend/
 
 # Install dependencies
 npm install
